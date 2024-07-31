@@ -1,0 +1,38 @@
+ .card img {
+    -o-object-fit: cover;
+    height: 500px;
+ }
+.card{
+    margin: 30px;
+    flex: 0 0 calc(33.333% - 20px);
+}
+.card title{
+text-align: center;
+}
+.card-text{
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
